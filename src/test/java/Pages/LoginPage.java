@@ -18,7 +18,7 @@ public class LoginPage extends AbstractPage{
     private WebElement button;
     @FindBy(linkText = "Выйти")
     private WebElement linkText;
-    @FindBy(linkText = "automation_test1")
+    @FindBy(linkText = "ffaannkkyy@rambler.ru")
     private WebElement automation_test1;
 
     public LoginPage(WebDriver driver)
